@@ -1,0 +1,7 @@
+Usage: ./start.rb or ruby start.rb 
+  --help          Display this help and exit.
+  [input_file] [output_file]
+
+Example:
+  ./start.rb /home/user/input.csv /home/user/output.csv
+  ruby start.rb input.csv output.csv
